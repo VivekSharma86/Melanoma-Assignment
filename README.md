@@ -25,6 +25,6 @@
 7. Handling class imbalances
 8. Model training on rectified class imbalance data
 
-Project Compiled by:
+**Project Compiled by:**
 1. Sayan Roy
 2. Vivek Sharma
