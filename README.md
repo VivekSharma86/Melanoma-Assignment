@@ -1,5 +1,7 @@
 # Melanoma-Assignment
+
 **Problem Statement and conceptual understading**: Melanoma is type of skin cancer, develop primarily in the cells (called melanocytes) that produce melanin pigment. Melanoma however can also be developed in eyes, but rarely inside the body.One of the common known reasons for melanoma is prolonged exposure to high amount of UV-radiations, but there are lot more underlying reasons as well ranging from genetic predisposition, epigenetics and many more under investigation. This type of cancer accounts for 75% skin cancer driven deaths. 
+
 **Task at our hand**:  A CNN model is to be built using number of images of Melanoma based cancers (learning data) that can help in designing an algorithm helpful in accurate primary diagnosis of different types of Melanoma (testing data). These type of applications are gaining increased traction from scientific and medical community as it can be of huge help in reducing the manual ambiguity in reading the images and can serve as an empirical tool for primary diagnosis. Images are sourced from International Skin Imaging Collaboration (ISIC). 
 
 **The data set contains the images classified under the following disease categories:**
