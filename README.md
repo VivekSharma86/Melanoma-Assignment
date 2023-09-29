@@ -26,5 +26,5 @@
 8. Model training on rectified class imbalance data
 
 **Project Compiled by:**
-1. Sayan Roy
-2. Vivek Sharma
+1. Vivek Sharma
+2. Sayan Roy
